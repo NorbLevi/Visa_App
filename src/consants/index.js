@@ -154,6 +154,44 @@ export const footerLinks = [
   },
 ];
 
+export const faqs =[
+  {
+    id: 'q1',
+    question: "Why Choose Us?",
+    Ans:"Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.", 
+    title: "Founder & Leader",
+    img: people02,
+    Name: 'Izuku Midorya'
+  },
+
+  {
+    id: 'q2',
+    question: "How Our Services Work?",
+    Ans:"Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.", 
+    title: "Founder & Leader",
+    img: people02,
+    Name: 'Izuku Midorya'
+  },
+
+  {
+    id: 'q3',
+    question: "What We Offer?",
+    Ans:"Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.", 
+    title: "Founder & Leader",
+    img: people02,
+    Name: 'Izuku Midorya'
+  },
+
+  {
+    id: 'q4',
+    question: "How Long to Become A Member?",
+    Ans:"Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.", 
+    title: "Founder & Leader",
+    img: people02,
+    Name: 'Izuku Midorya'
+  },
+];
+
 export const socialMedia = [
   {
     id: "social-media-1",
