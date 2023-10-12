@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './style';
-import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
+import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./Components";
 import FAQ from './consants/FAQ';
 
 const App = () => (
